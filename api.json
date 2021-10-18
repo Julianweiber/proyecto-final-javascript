@@ -1,0 +1,79 @@
+[
+    {
+      "precio": 900,
+      "id": 1,
+      "title": "Hierro 5mm",
+      "image": "./media/hierro5mm.png"
+    },
+    {
+      "precio": 1200,
+      "id": 2,
+      "title": "Hierro 8mm",
+      "image": "./media/hierro8mm.jpg"
+    },
+    {
+      "precio": 6000,
+      "id": 3,
+      "title": "Chapa lisa",
+      "image": "./media/chapalisa.jpg"
+    },
+    {
+      "precio": 6000,
+      "id": 4,
+      "title": "Chapa negra",
+      "image": "./media/chapa negra.jpg"
+    },
+    {
+      "precio": 6000,
+      "id": 5,
+      "title": "Chapa estampada",
+      "image": "media/chapaestampada.jpg"
+    },
+    {
+      "precio": 7500,
+      "id": 6,
+      "title": "Caño cuadrado",
+      "image": "media/cañocuadrado.jpg"
+
+
+    },
+    {
+        "precio": 7500,
+        "id": 7,
+        "title": "Caño redondo",
+        "image": "media/cañocuadrado.jpg"
+
+    
+      },
+      {
+        "precio": 7500,
+        "id": 8,
+        "title": "Caño rectangular",
+        "image": "media/caño rectangular.jpg"
+  
+      },
+      {
+        "precio": 10000,
+        "id": 9,
+        "title": "Perfil redondo",
+        "image": "media/perfilredondo.jpg"
+  
+  
+      },
+      {
+      "precio": 10000,
+      "id": 10,
+      "title": "Perfil cuadrado",
+      "image": "media/perfilcuadrado.jpg"
+
+
+    },
+    {
+        "precio": 10000,
+        "id": 11,
+        "title": "Perfil angular",
+        "image": "media/perfilangular.jpg"
+  
+  
+      }
+  ]

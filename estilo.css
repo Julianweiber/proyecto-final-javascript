@@ -1,0 +1,43 @@
+.titulo{
+	color:white;
+	font-size: 3rem;
+	font-weight: bold;
+	letter-spacing: 0ch;
+	text-align: center;
+	letter-spacing:10px;
+	font-family: 'Big Shoulders Display', cursive;
+	text-transform: uppercase;
+	background-color: #414141;
+	}
+	
+body {
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	background-image:linear-gradient(to bottom,#e1e0e0,#6f6f6f,#414141,#703538);
+}
+
+
+
+#productosContenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+
+ .footer {
+	background-color: rgb(148, 39, 39);
+	color: rgb(255, 255, 255);
+	opacity: .2;
+	width: 100%;
+	height: auto;
+	grid-area: footer;
+	text-decoration: none;
+
+}
+ .footer #copyright{
+	text-align: right;
+	text-transform: lowercase;
+	font-size: 1rem;
+}
